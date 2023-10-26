@@ -8,7 +8,7 @@
 
   A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href=""><strong>➥ Live Demo <https://iamabhisekrath.github.io/Responsive-Music-Player/</strong></a>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ### Demo Screeshots
 
-![Music Player Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 
 ### Prerequisites
 
